@@ -6,6 +6,9 @@ Setup the script with your bots Steam64ID,
 Example Picture: (Coming Soon).
 
 You can copy paste parts of the script to show more bots at one page.
+Dont forget to add your own style and Steam64ID's to the script.
+
+![Screenshot](http://fs5.directupload.net/images/170918/ihcv9jb6.png)
 
 If you have any issues pls let me know
 
