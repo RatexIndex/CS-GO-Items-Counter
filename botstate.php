@@ -1,7 +1,7 @@
 <center>
 <?php
 
-            $API_link = sprintf("http://steamcommunity.com/profiles/%s/inventory/json/730/2?trading=1", '76561198211151623');
+            $API_link = sprintf("http://steamcommunity.com/profiles/%s/inventory/json/730/2?trading=1", 'STEAM64ID');
             $json = file_get_contents($API_link);
             $json_output = json_decode($json);
             $i = 0;
